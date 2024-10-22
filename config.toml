@@ -1,0 +1,8 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Peaceful Foundation"
+theme = "ananke"
+
+[params]
+  description = "A community dedicated to supporting each other."
+  keywords = ["community", "support", "passports", "volunteers"]
